@@ -4,6 +4,7 @@
 
     $git clone [the URL]
 
+
 ## Manage your versions: 
 to create the branch on your local machine:
 
@@ -18,4 +19,5 @@ download all branches from the remote:
     $git fetch --all
     
 #### Note: The solutions can be found in the solutions branch.
+
 
